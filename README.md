@@ -1,2 +1,4 @@
-# SOME_ALGOS_IN_PYTHON_NOT_FOUND_GEEKS_FOR_GEEKS
-some algorithms not found in geeks for geeks in python 
+# SOME ALGOS IN PYTHON NOT FOUND GEEKS FOR GEEKS
+some algorithms not found in geeks for geeks in python or a moer efficient way in python two implement the algorithms
+
+# 1) Count factors of two numbers :
